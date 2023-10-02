@@ -1,0 +1,4 @@
+#!/bin/basha
+grep -i "root" /etc/passwd
+
+
